@@ -1,0 +1,29 @@
+.intro {
+	background-color: yellow;
+}
+#firstname{
+	
+	text-align: center;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+input:focus {
+	background-color: yellow;
+}
+
+input:checked {
+	height: 50px;
+	width: 50px;
+}
+p:empty{
+	width: 100px;
+	height: 20px;
+	background: #ff0000;
+}
